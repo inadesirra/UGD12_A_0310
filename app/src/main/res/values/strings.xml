@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UGD12_X_YYYY</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="kotaAsal">Provinsi</string>
+    <string name="npm">NPM</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="prodi">Prodi</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="loading_text">Loading...</string>
+</resources>
+
+
